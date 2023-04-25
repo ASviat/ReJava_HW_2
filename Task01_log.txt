@@ -1,0 +1,29 @@
+апр. 25, 2023 3:41:00 PM Task01 main
+INFO: Введенная длинна массива: 6
+апр. 25, 2023 3:41:03 PM Task01 main
+INFO: Начальный массив:
+[8, 2, 4, 5, 9, 6]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: Начата сортировка массива
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 4, 2, 5, 9, 6]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 4, 5, 2, 9, 6]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 4, 5, 9, 2, 6]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 4, 5, 9, 6, 2]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 5, 4, 9, 6, 2]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 5, 9, 4, 6, 2]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 5, 9, 6, 4, 2]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 9, 5, 6, 4, 2]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [8, 9, 6, 5, 4, 2]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: [9, 8, 6, 5, 4, 2]
+апр. 25, 2023 3:41:03 PM Task01 SortArray
+INFO: Сортировка завершена
